@@ -57,7 +57,7 @@
       apply: function () {
         if (heroLede) {
           heroLede.textContent =
-            'Residential plumbing, water heaters, gas piping, and sewer laterals across Perris and the Inland Empire. Adalid looks at the job and writes the price down first.';
+            'Residential plumbing, water heaters, gas piping, and sewer laterals in Perris. Adalid looks at the job and writes the price down first.';
         }
       }
     },
