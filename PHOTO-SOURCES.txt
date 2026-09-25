@@ -1,0 +1,21 @@
+PHOTO SOURCES · hs-052-innovative Innovative Master Plumbing (Wave 11 2026-09-25 PT)
+All CC0 / public domain (StockSnap, rawpixel CC0, WordPress Photos CC0, Flickr CC0/PDM via Openverse) or prior verified Wave library.
+Every file opened and checked for trade fit. No face is used or captioned as the owner.
+Sample B/A photos are labeled on page as stock images typical of this kind of job.
+
+hero-site.jpg <- wave11/plumb-gas-meter-pipes.jpg : gas meter, regulator, and piping on brick (prior verified library wave6/plumb-pipes-w6.jpg)
+services-trade.jpg <- wave11/plumb-iron-fittings.jpg : black iron pipe fittings (rawpixel CC0 5947855)
+people-crew.jpg <- wave11/tools-wrenches-dark.jpg : wrench set, dark background (StockSnap CC0 F91K0WLE2D)
+people-marek.jpg <- wave11/kitchen-sink-window.jpg : kitchen sink by a window (Flickr CC0 160444800)
+people-tom.jpg <- wave11/faucet-glass-water.jpg : glass filling at a kitchen faucet, hand only (Flickr CC0 51487313271)
+coverage-house.jpg <- wave11/house-gabled-lawn.jpg : gabled single-family home with lawn (prior verified library wave2/house-suburb.jpg)
+plumb-iron-fittings.jpg <- wave11/plumb-iron-fittings.jpg : black iron pipe fittings (rawpixel CC0 5947855)
+plumb-gas-meter-pipes.jpg <- wave11/plumb-gas-meter-pipes.jpg : gas meter, regulator, and piping on brick (prior verified library wave6/plumb-pipes-w6.jpg)
+tools-sockets.jpg <- wave11/tools-sockets.jpg : socket set (StockSnap CC0 M07SV6AMBD)
+wh-basement-tank.jpg <- wave11/wh-basement-tank.jpg : tank water heater in a utility room (Flickr PDM 17715613311)
+plumb-under-sink-hands.jpg <- wave11/plumb-under-sink-hands.jpg : hands fitting a supply line under a sink, no face (prior verified library wave2/under-sink.jpg)
+shower-valve-tile.jpg <- wave11/shower-valve-tile.jpg : tiled shower with valve and hand shower (rawpixel CC0 5902607)
+
+Rejected from prior library (not used): wave7 wh-* files (plasterer / painter / window cleaner mislabeled as water heaters),
+wave2/wave5 yellow-hat electrician portraits (stock face), crew photos with faces, wave2 elec-breaker-hand (sanding, not electrical).
+Note: Distinct hero (gas piping) from hs-051 Adan's Plumbing (same city). Domain ideas checked unregistered via Verisign RDAP 2026-09-25.
